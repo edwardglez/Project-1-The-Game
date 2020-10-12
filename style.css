@@ -58,7 +58,7 @@ body {
 }
 
 .x {
-  background-image: url('/X.gif');
+  background-image: url('./X.gif');
 }
 .o {
   cursor: default;
